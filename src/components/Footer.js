@@ -48,16 +48,7 @@ const Footer = () => {
                   Contact
                 </a>
               </li>
-              <li>
-                <a href="#" className="text-blue-200 hover:text-white transition-colors text-sm">
-                  Privacy Policy
-                </a>
-              </li>
-              <li>
-                <a href="#" className="text-blue-200 hover:text-white transition-colors text-sm">
-                  Terms of Service
-                </a>
-              </li>
+              
             </ul>
           </div>
 
