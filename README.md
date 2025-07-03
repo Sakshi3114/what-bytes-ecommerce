@@ -3,7 +3,7 @@
 An elegant, responsive e-commerce web app built using **Next.js (App Router)**, **Redux**, and **Tailwind CSS**. 
 
 ## 🚀 Live Demo
-🔗 [Visit Site](https://your-vercel-link.vercel.app)
+🔗 [Visit Site](https://what-bytes-ecommerce.vercel.app/)
 
 ## ✨ Features
 
