@@ -1,7 +1,6 @@
 'use client';
 
 import { useSearchParams } from "next/navigation"
-import { useState } from 'react';
 import products from '../utils/products';
 import LeftSidebar from '../components/LeftSidebar';
 import ProductListing from '../components/ProductListing';
